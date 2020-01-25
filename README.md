@@ -1,8 +1,8 @@
 # Login-NodeJS
 
-1.npm install -g express-gererator
+1. $npm install -g express-gererator
 
-2.express
+2. $express
 
 3.edit jade to ejs
 ```
@@ -26,4 +26,4 @@
 </html>
 
 ```
-4.npm install
+4. $npm install
