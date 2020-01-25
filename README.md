@@ -1,9 +1,7 @@
 # Login-NodeJS
 
 1. $npm install -g express-gererator
-
 2. $express
-
 3. edit jade to ejs
 ```
 3.1./app.js
@@ -24,6 +22,5 @@
   
 </body>
 </html>
-
 ```
 4. $npm install
