@@ -4,7 +4,7 @@
 
 2. $express
 
-3.edit jade to ejs
+3. edit jade to ejs
 ```
 3.1./app.js
 14 app.set('view engine','ejs');
