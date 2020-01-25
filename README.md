@@ -26,3 +26,4 @@
 </html>
 ```
 4. $npm install
+5. http://localhost:3000/ and http://localhost:3000/users
